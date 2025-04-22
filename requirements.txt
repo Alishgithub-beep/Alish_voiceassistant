@@ -1,0 +1,9 @@
+tkinter
+threading
+time
+os
+speechrecognition
+pyttsx3
+requests
+numpy
+pyaudio
